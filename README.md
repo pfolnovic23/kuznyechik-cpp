@@ -31,13 +31,15 @@ At startup, you will be prompted to choose:
 1 – test encryption
 
 2 – test decryption
+```
 
-🧪 Test Case (from official documentation)
+## 🧪 Test Case (from official documentation)
 Plaintext: 1122334455667700ffeeddccbbaa9988
 
 Ciphertext: 7f679d90bebc24305a468d42b9d4edcd
 
-📄 Documentation
+
+## 📄 Documentation
 See doc/skunk.pdf for:
 
 Theoretical background
@@ -48,7 +50,7 @@ Flow diagrams
 
 Implementation analysis
 
-👨‍💻 Author
+## 👨‍💻 Author
 Name: Pavel Folnović
 
 Mentor: prof. Alen Lovrenčić, Ph.D.
